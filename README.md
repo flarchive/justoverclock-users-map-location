@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of justoverclock/users-map-location.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/users-map-location) or the [upstream repository](https://github.com/justoverclockl/users-map-location).
 
-**0** versions archived · Latest: [`0.1.6`](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.6) · License: `MIT` · Flarum: `^1.0.0`
+**7** versions archived · Latest: [`0.1.6`](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.6) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-02-05 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-02-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-02-08 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-06-15 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.3) |
+| `0.1.4` | 2022-06-16 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-06-16 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.5) |
+| `0.1.6` | 2022-06-16 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-users-map-location/tree/archive/v0.1.6) |
 
 Catalog entry: [packages/justoverclock-users-map-location.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-users-map-location.json)
 
